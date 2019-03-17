@@ -1,6 +1,8 @@
 Preface
 
+<textarea rows="2" cols="20" wrap="hard">
 The Candidate Scoring System (CSS) is a method for selecting preferred candidates in elections. It is based on Effective Altruist (EA) ethics and methodology. Of course, opposing political positions are still valid in the EA movement and there is room for respectable disagreement.
+</textarea> 
 
 CSS1 was released in March 2019, establishing basic policy preferences and providing tentative scoring of presidential candidates. For CSS2 we have deepened our analysis of policy questions, gathered more information about political candidates, expanded the number of candidates under consideration, added calculations of election probabilities and counterfactuals, and simplified the information into a single report with an accompanying Excel model.
 
